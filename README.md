@@ -9,12 +9,12 @@ THIS IS NOT THE ORIGINAL MOD (THIS IS A WORK-IN-PROGRESS)
 Also, you still have to do the whole downgrade process to be able to use this.
 
 
-To-do list:
+<b>To-do list:</b>
 
--Add options to movement (HMD or controller-based);
--Smooth/Snap Turn;
--If not impossible for someone with close to none knowledge of how to actually code, some improvements on the Head Object attachment to the body/camera behavior.
-    I saw that the code have some failsafes if the camera wanders far for whatever reason.
+Add options to movement (HMD or controller-based).
+Smooth/Snap Turn.
+If not impossible for someone with close to none knowledge of how to actually code, some improvements on the Head Object attachment to the body/camera behavior
+I saw that the code have some failsafes if the camera wanders far for whatever reason.
 I don't intend to do UI based configs, but rather edit a .txt file
 
 If the original developer of the mod finds this wrong or offensive, please contact me and I will cease everything immediatly.
