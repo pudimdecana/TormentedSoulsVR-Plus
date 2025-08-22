@@ -17,19 +17,19 @@ Also, you still have to do the whole downgrade process to be able to use this.
     * I saw that the code have some failsafes if the camera wanders far for whatever reason.  
 * I don't intend to do UI based configs, but rather edit a .txt file.  
 
-If the original developer of the mod finds this wrong or offensive, please contact me and I will cease everything immediatly.
-
-
 
 ## <b>Release History</b>
 * I have little to no idea of what I'm doing
 
 <br>
 
-## <b>Credits</b>
+## <b>Original Credits</b>
 
 * Big thanks to [PinkMilkProductions](https://www.youtube.com/channel/UCvZLpwlyxn6lFYXKsBl6qHg) for his Unity VR modding series 
 * Thanks to [dabeschte](https://github.com/dabeschte) for his [VR arm inverse kinematics repository](https://github.com/dabeschte/VRArmIK) which I based my IK off
+
+## <b>This one's Credits</b>
+* All of the above
 * Thanks to the original developer [cybensis](https://github.com/cybensis/TormentedSoulsVR) for this amazing piece of technology
 
 
